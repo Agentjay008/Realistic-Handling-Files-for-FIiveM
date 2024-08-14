@@ -15,14 +15,6 @@ Pick the handling file that fits your vehicle and place it in your vehicle resou
 
 Open your 'vehicles.meta' file and make sure to change the "handling id" section to the name of the vehicle inside the 'handling.meta' file.
 
-EXAMPLE:
-<modelName>fpiu</modelName>
-<txdName>fpiu</txdName>
-<handlingId>FPIU</handlingId> <<<HERE>>>
-<gameName>fpiu</gameName>
-
-
-
 Rename the handling file to 'handling.meta' otherwise it WILL NOT work. 
 
 For example, rename '2020fpiuhandling.meta' to 'handling.meta'.
